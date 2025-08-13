@@ -1,0 +1,97 @@
+[
+  {
+    "title": "🏠 Accueil",
+    "path": "/"
+  },
+  {
+    "title": "🔨 Démarrer",
+    "pages": [
+      {
+        "title": "Enregistrer un bot",
+        "path": "/get-started/bot-registration"
+      },
+      {
+        "title": "Installation",
+        "path": "/get-started/installation",
+        "pages": [
+          {
+            "title": "Discord.js",
+            "path": "/get-started/installation/discord.js"
+          },
+          {
+            "title": "Eris",
+            "path": "/get-started/installation/eris"
+          },
+          {
+            "title": "Discord.py",
+            "path": "/get-started/installation/discord.py"
+          },
+          {
+            "title": "Java",
+            "path": "/get-started/installation/java"
+          },
+          {
+            "title": "Oceanic.js",
+            "path": "/get-started/installation/oceanic.js"
+          }
+        ]
+      },
+      {
+        "title": "Intégration des votes",
+        "path": "/get-started/votes-integration"
+      },
+      {
+        "title": "Utilisation Avancée",
+        "path": "/get-started/advanced-usage",
+        "pages": [
+          {
+            "title": "Équipes",
+            "path": "/get-started/advanced-usage/teams"
+          },
+          {
+            "title": "Recevoir les votes",
+            "path": "/get-started/advanced-usage/receive-votes"
+          },
+          {
+            "title": "Optimiser les évènements (NodeJS)",
+            "path": "/get-started/advanced-usage/optimize-events"
+          },
+          {
+            "title": "Utiliser ESM (JavaScript)",
+            "path": "/get-started/advanced-usage/esm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "📜 Mentions Légales",
+    "pages": [
+      {
+        "title": "Conditions d'Utilisation",
+        "path": "/legals/terms"
+      },
+      {
+        "title": "Politique de Confidentialité",
+        "path": "/legals/privacy"
+      },
+      {
+        "title": "Faire appel d'une sanction",
+        "path": "/legals/appeal-sanction"
+      }
+    ]
+  },
+  {
+    "title": "📗 Référence",
+    "pages": [
+      {
+        "title": "Succès",
+        "path": "/reference/achievements"
+      },
+      {
+        "title": "Graphiques",
+        "path": "/reference/graphs"
+      }
+    ]
+  }
+]
